@@ -1,1 +1,1 @@
-# Vac-AI-project-
+AI Study Assistant
